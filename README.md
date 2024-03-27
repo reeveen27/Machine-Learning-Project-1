@@ -1,2 +1,3 @@
-# Machine-Learning-Project-1
-First project in Machine Learning using Jupyter. Topic : Predictive Modelling of Corporate Bankruptcy in the Taiwanese Stock Market
+# Details about the project in ML. 
+Project in Machine Learning using Jupyter notebook. Topic : Predictive Modelling of Corporate Bankruptcy in the Taiwanese Stock Market.
+This project focuses on predicting corporate bankruptcy in the Taiwanese stock market from 1999 to 2009 using a dataset from the Taiwan Economic Journal. Grounded in the regulatory framework of the Taiwan Stock Exchange, the study aims to develop accurate predictive models that transcend solvency considerations, shedding light on the nuanced dynamics of financial stability and challenges in currency trade faced by companies. 
